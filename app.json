@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "iniciando-viagem",
+    "slug": "iniciando-viagem",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "iniciando-viagem"
+}
